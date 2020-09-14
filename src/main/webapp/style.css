@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+
+img {
+	height: 50px;
+	width: 50px
+}
+
+.navbar-nav .nav-item .nav-link {
+	color: white;
+	font: bold;
+}
+
+#logout{
+	float: right;
+}
